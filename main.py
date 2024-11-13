@@ -54,6 +54,3 @@ with Options:
                      st.write("AREA(IN SQ.KM): " + state[2])
                      st.write("LANGUAGE SPOKEN: " + state[3])
                      st.write("POPULATION: " + state[4])
-
-
-
